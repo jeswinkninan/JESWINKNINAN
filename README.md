@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Platform Engineering-Cloud Container, Kubernetes, Marathon+Mesos, Docker, Hybrid Cloud, Go.
-CNCF Trivandrum Organizer and Speaker : https://community.cncf.io/trivandrum/ 
-AWS Community Builder for Containers
-CNCF Contributor
-Open Source Contributor: https://github.com/infracloudio/krius
-Speaker for community event
+- Platform Engineering-Cloud Container, Kubernetes, Marathon+Mesos, Docker, Hybrid Cloud, Go.
+- CNCF Trivandrum Organizer and Speaker : https://community.cncf.io/trivandrum/ 
+- AWS Community Builder for Containers
+- CNCF Contributor
+- Open Source Contributor: https://github.com/infracloudio/krius
+- Speaker for community event
 
-Technical Blogger:
-https://www.cncf.io/blog/2021/09/14/how-to-secure-containers-with-cosign-and-distroless-images/
-https://www.infracloud.io/blogs/rbac-gke-google-workspace-groups/
-https://devopsmalayalam.io/sre-latest-nickname-for-technical-support/
+- Technical Blogger:
+  - https://www.cncf.io/blog/2021/09/14/how-to-secure-containers-with-cosign-and-distroless-images/
+  - https://www.infracloud.io/blogs/rbac-gke-google-workspace-groups/
+  - https://devopsmalayalam.io/sre-latest-nickname-for-technical-support/
