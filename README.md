@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - AWS Community Builder for Containers
 - CNCF Contributor
 - Open Source Contributor: https://github.com/infracloudio/krius
-- Speaker for community event
+- Speaker for community events
 
 - Technical Blogger:
   - https://www.cncf.io/blog/2021/09/14/how-to-secure-containers-with-cosign-and-distroless-images/
