@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - CNCF Contributor
 - Open Source Contributor: https://github.com/infracloudio/krius
 - Speaker for community events
-
+  - https://devopsmalayalam.io/our-team/
+  - https://community.cncf.io/trivandrum/
 - Technical Blogger:
   - https://www.cncf.io/blog/2021/09/14/how-to-secure-containers-with-cosign-and-distroless-images/
   - https://www.infracloud.io/blogs/rbac-gke-google-workspace-groups/
