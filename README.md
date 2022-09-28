@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Platform Engineering-Cloud and Container, Kubernetes, Marathon+Mesos, Docker, Hybrid Cloud, Observability, Go.
+- Platform Engineering-Kubernetes And Observabilty
 - CNCF Trivandrum Organizer and Speaker : https://community.cncf.io/trivandrum/ 
 - AWS Community Builder for Containers
 - CNCF Contributor
