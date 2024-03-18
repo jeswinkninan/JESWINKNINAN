@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Platform Engineering-Kubernetes, Traffic Engineering, Observability
+- SDE-Kubernetes, Traffic Engineering, Observability
 
